@@ -3,3 +3,4 @@ dd
 git track changed
 quick and simplle
 fast merge
+no fast merge
