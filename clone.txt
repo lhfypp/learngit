@@ -2,3 +2,4 @@ clone test
 dd
 git track changed
 quick and simplle
+fast merge

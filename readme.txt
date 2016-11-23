@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 Creating a new branch for --no-ff.
 dev is doing.
 Git is a free software ...
+add coding: utf-8
+add /usr/bin/env
