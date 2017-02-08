@@ -103,7 +103,7 @@
 #                   signals. Default is "false" unless running on HP-UX in which
 #                   case the default is "true"
 # -----------------------------------------------------------------------------
-
+JAVA_OPTS="-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false
 darwin=false
