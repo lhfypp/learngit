@@ -6,3 +6,5 @@ fast merge
 no fast merge
 fast merge again
 dddaad
+haha,anoter
+fast merge
