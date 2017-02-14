@@ -1,1 +1,1 @@
-test merge -no-off
+test merge -no-off add new
